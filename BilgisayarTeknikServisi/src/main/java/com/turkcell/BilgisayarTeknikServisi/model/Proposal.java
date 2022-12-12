@@ -42,6 +42,6 @@ public class Proposal {
 	private String note;
 
 	@Column
-	private Boolean durum;
+	private boolean durum;
 
 }
